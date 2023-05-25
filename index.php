@@ -203,6 +203,11 @@ require $nav; ?>
                 <p class="animated slideInUp wow">Мы обслуживаем различные виды продукции. Мы стараемся реализовать все
                     самое лучшее, что можно купить по низкой цене. Мы заботимся о наших клиентах, как о своей семье </p>
             </div>
+            <div class="col s12 m12"><br>
+                <video class="responsive-video animated slideInUp wow" controls>
+                    <source src="movie.mp4" type="video/mp4">
+                </video>
+            </div>
 
         </div>
     </div>
